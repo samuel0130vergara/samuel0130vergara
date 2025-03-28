@@ -17,7 +17,7 @@ Soy un desarrollador de software apasionado por el aprendizaje continuo y con un
 ### 💻 Habilidades Técnicas
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="30" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" alt="Angular" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
