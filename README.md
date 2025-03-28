@@ -16,7 +16,8 @@ Soy un desarrollador de software apasionado por el aprendizaje continuo y con un
 
 ### 💻 Habilidades Técnicas
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="30" alt="Angular"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
@@ -43,7 +44,7 @@ Soy un desarrollador de software apasionado por el aprendizaje continuo y con un
 - Resolución de bugs y mejoras en rendimiento.
 - Mantenimiento y mejora de una página web en **Angular**.
 
-#### 💼 Becario | **Industrias en Vidrio y Aluminio** | Guadalajara (Ago 2024 - Actualidad)
+#### 💼 Desarrollador Jr | **Industrias en Vidrio y Aluminio** | Guadalajara (Ago 2024 - Actualidad)
 - Desarrollo de una aplicación en **Angular** para la gestión de requisiciones de compra.
 - Diseño de una interfaz de usuario moderna con **Tailwind CSS**.
 
@@ -51,13 +52,11 @@ Soy un desarrollador de software apasionado por el aprendizaje continuo y con un
 
 ### 🌍 Idiomas
 - 🇪🇸 Español - Nativo
-- 🇬🇧 Inglés - Intermedio
+- 🇬🇧 Inglés - Basico 
 
 ---
 
 ### 📫 Contacto
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> samuel0130vergara@gmail.com
-  <br/>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> [LinkedIn](#) *(Agrega tu enlace aquí)*
 </div>
