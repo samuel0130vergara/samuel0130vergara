@@ -30,25 +30,6 @@ Soy un desarrollador de software apasionado por el aprendizaje continuo y con un
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
 </div>
 
----
-
-### 🛠 Experiencia Laboral
-#### 💼 Becario Desarrollo de Software | **Wendy Colchones** | Guadalajara (Ene 2023 - Ago 2023)
-- Mantenimiento y optimización en una aplicación de requisiciones de compras.
-- Diseño e implementación de nuevos módulos.
-- Resolución de bugs para mejorar el rendimiento y estabilidad.
-
-#### 💼 Desarrollador Jr | **Handcloud** | Guadalajara (Sep 2023 - Ago 2024)
-- Desarrollo de una aplicación en **React** desde cero.
-- Implementación de backend con **NestJS**, asegurando eficiencia y escalabilidad.
-- Resolución de bugs y mejoras en rendimiento.
-- Mantenimiento y mejora de una página web en **Angular**.
-
-#### 💼 Desarrollador Jr | **Industrias en Vidrio y Aluminio** | Guadalajara (Ago 2024 - Actualidad)
-- Desarrollo de una aplicación en **Angular** para la gestión de requisiciones de compra.
-- Diseño de una interfaz de usuario moderna con **Tailwind CSS**.
-
----
 
 ### 🌍 Idiomas
 - 🇪🇸 Español - Nativo
